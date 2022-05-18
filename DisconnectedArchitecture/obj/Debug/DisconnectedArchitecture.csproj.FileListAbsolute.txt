@@ -1,0 +1,14 @@
+D:\GitHub\Csharp.Net\Disconnected-Architecture-Csharp-CRUD-Operations\Disconnected-Architecture-Csharp-CRUD-Operations\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe.config
+D:\GitHub\Csharp.Net\Disconnected-Architecture-Csharp-CRUD-Operations\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe.config
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe.config
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.pdb
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csprojResolveAssemblyReference.cache
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Delete.resources
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Insert.resources
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Properties.Resources.resources
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Update.resources
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.View.resources
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.GenerateResource.Cache
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.exe
+D:\GitHub\Csharp.Net\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.pdb
